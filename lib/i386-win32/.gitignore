@@ -1,0 +1,8 @@
+# Archivos compilados y temporales de Lazarus / Pascal
+*.o
+*.ppu
+*.exe
+*.bak
+*.compiled
+backup/
+lib/
